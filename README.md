@@ -8,7 +8,7 @@ This is a code component that processes doc documents and provides the following
 For more detailed information about this code component, please refer to the `code component` documentation of `PowerApps`
 
 ### Demo
-<video width="320" height="240">
+<video width="640" controls>
     <source id="mp4" type="video/mp4" src="./docs/usage_xjZOqnCc.mp4" >
 </video>
 
