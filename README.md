@@ -9,7 +9,7 @@ For more detailed information about this code component, please refer to the `co
 
 ### Demo
 <video width="640" controls>
-    <source id="mp4" type="video/mp4" src="./docs/usage_xjZOqnCc.mp4" >
+    <source id="mp4" type="video/mp4" src="./DocProcessorComponent/docs/usage_xjZOqnCc.mp4" >
 </video>
 
 ### Setup
