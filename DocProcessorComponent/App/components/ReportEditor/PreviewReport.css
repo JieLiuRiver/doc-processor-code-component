@@ -1,0 +1,11 @@
+.review-container {
+    width: 609px;
+    min-height: 879px;
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 50px 70px;
+    overflow: hidden;
+    img {
+        max-width: 100% !important;
+    }
+}
