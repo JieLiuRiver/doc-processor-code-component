@@ -9,7 +9,7 @@ For more detailed information about this code component, please refer to the `co
 
 ### Demo
 <video width="320" height="240">
-    <source="./docs/usage_xjZOqnCc.mp4" >
+    <source id="mp4" type="video/mp4" src="./docs/usage_xjZOqnCc.mp4" >
 </video>
 
 ### Setup
