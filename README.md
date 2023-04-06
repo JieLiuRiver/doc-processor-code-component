@@ -8,7 +8,27 @@ This is a code component that processes doc documents and provides the following
 For more detailed information about this code component, please refer to the `code component` documentation of `PowerApps`
 
 ### Demo
-There is a video demo in `./DocProcessorComponent/docs/usage_xjZOqnCc.mp4`
+1. Set open to `true`
+<img src="./DocProcessorComponent/docs/WX20230406-144612.png" />
+
+2. Upload `doc` file (not real upload to remote)
+<img src="./DocProcessorComponent/docs/WX20230406-144734.png" />
+
+3. Upload `xlsx` file as `chart` data
+<img src="./DocProcessorComponent/docs/WX20230406-144923.png" />
+
+4. Configure chart
+<img src="./DocProcessorComponent/docs/WX20230406-145137.png" />
+
+4. Enter the text content to be replaced with the doc text placeholder
+<img src="./DocProcessorComponent/docs/WX20230406-145227.png
+" />
+
+5. Preview final `doc` report
+<img src="./DocProcessorComponent/docs/WX20230406-144518.png" />
+
+6. Export `doc` report
+<img src="./DocProcessorComponent/docs/WX20230406-145413.png" />
 
 ### Setup
 To set up this code component, follow these steps:
